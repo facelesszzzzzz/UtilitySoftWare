@@ -17,3 +17,6 @@ CAN分析仪
 
 Ubuntu18.04 && Ubuntu22.04  
 MobaXterm  
+
+**windows**
+HEUKMSActivator
